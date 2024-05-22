@@ -28,7 +28,7 @@ namespace ConsoleApp2
                     break;
                 case "*":
                     result = MultiplyFunc(a, b);
-                    break; ;
+                    break; 
                 case "/":
                     if (b == 0)
                     {
